@@ -1,0 +1,76 @@
+1.3.0.83 - 16/07/2015:
+==================
+  - Acrescentado opção de converter o texto a ser impresso de ASCII para ANSI afim de resolver problemas no uso de caracteres de acentuação.
+
+1.3.0.68 - 31/01/2014:
+==================
+  - Correção de falhas.
+
+
+1.3.0.37 - 17/01/2014:
+==================
+  - Configuração para carregamento na inicialização do Windows.
+  - Configuração para manter sempre o mesmo tamanho e o tipo de fonte.
+  - Remoção de íncone animado da bandeija de sistema.
+  - Acrescentado mais duas escolha de impressora. É possível usar até 3 impressoras sendo uma para cada assunto.
+  - Acrescentado mais duas configurações de caminho de arquivos de impressão.
+  - Identificação do número da versão do programa no título da janela do mesmo.
+
+1.3.0.27 - 14/05/2007:
+==================
+  - Nova opção de configuração: "Ejeção de Folhas". Permite ou não a ejeção de cada
+    folha impressa ao chegar ao final da página ou quando detectar uma solicitação 
+    no arquivo de impressão.
+  - Falta concluir, ainda:
+    Emulação dos comandos Expandido, Elite(12 CPI), Dupla Altura, Orientação tipo
+    Paisagem, Controle de espaçamento entre linhas(1/6,1/8...), Espaço proporcional,
+    Caracteres coloridos, impressão de código-de-barras, impressão de imagens e 
+    fotos e impresão de boletos bancários.
+
+1.2.0.26 - 08/05/2007:
+==================
+  - Salvamento, automático das configurações do usuário em arquivo Dosimprime.ini.
+
+1.1.1.25 - 27/04/2007:
+==================
+  - Conversão ASCII para ANSI, automática, durante a impressão.
+  - Impressão dos caracteres gráficos ASCII(linhas).
+  - Alguns ajustes visuais e informações na tela em dados momentos.
+
+1.1.1.24 - 26/04/2007:
+==================
+  - Ao abrir o programa, ele fica na bandeija do sistema Windows(System Tray).
+  - Ícone fica na bandeija do sistema(system Tray) ao clicar no X para fechar o
+    programa.
+  - Clicando com o botão direito do mouse sobre o ícone disponível na badeija do sistema,
+    surge um menu de opções. Assim, pode-se exibir a janela, escondê-la, parar e reiniciar
+    o funcionamento do programa e fechá-lo/encerrá-lo.
+  - Retirada solciitação de escolha de impressora do início do programa. Agora, ele utiliza
+    a impressora padrão, automaticamente, podendo alterar clicando no botão "Escolher 
+    Impressora".
+  - Disponibilizado no menu uma opção de alterar impressora para uso pelo programa sem 
+    ter de exibir a janela para tanto.
+
+1.1.1.8 - 24/04/2007:
+==================
+  - Concluído a emulação dos seguintes comandos da EPSON: 
+    Dupla Largura / ESC + W + "1"
+    Negrito / ESC + E,
+    Desativar Negrito / ESC + "F"
+    Itálico / ESC + "4"
+    Desativar Itálico / ESC + "5"
+    Sublinhado / ESC + "-" + CHR(1)
+    Desativar Sublinhado / ESC + "-" + CHR(0)
+    Condensado / CHR(15)
+    Normal(10 CPI) / CHR(18)
+    Ejetar / CHR(12)
+    15 CPI / ESC + "g"
+    Desativar 15 CPI e Elite(12 CPI) / ESC + "P"
+    Dupla Impressão / ESC + "G"
+    Desativar Dupla Impressão / ESC + "H"
+  - OBS: Neste sistema, o comando Dupla Impressão, apenas, ativa o negrito
+    não havendo diferença entre texto em negrito e com dupla impressão. O 
+    comando Dupla Largura imprime os textos em tamanho duplicado mantendo a
+    proporção original, diferentemente da impressão feita em impressoras
+    matriciais EPSON onde o comando faz com que os caracteres fiquem
+    alargados.

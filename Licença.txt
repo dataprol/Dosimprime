@@ -1,0 +1,18 @@
+
+
+                LICENÇA DE USO DO DOSIMPRIME
+                ============================
+ 
+
+	Este programa de computador, Dataprol Dosimprime, enquadra-se na modalidade de licença Opensource. Qualquer um poderá utilizá-lo e alterá-lo, livremente, sem ter de pagar nada por isso. Porém, ele é fornecido sem garantias e sem suporte técnico.
+        Não me responsabilizo por mal uso ou mal funcionamento do mesmo e nem por danos que, por ventura, venha causar direta ou indiretamente.
+	Instalando e utilizando o Dataprol Dosimprime estará, automaticamente, concordando com estes termos de licença de uso.
+
+
+
+
+
+
+Luiz Carlos Costa Rodrigues
+Arroio do Sal / RS
+15/12/2018.
