@@ -1,16 +1,12 @@
 
+	LICENÇA DE USO DO DOSIMPRIME
+	----------------------------
 
-                LICEN�A DE USO DO DOSIMPRIME
-                ============================
- 
+Este programa é um software livre(free software/opensource). Você pode redistribuí-lo e/ou modificá-lo sob os termos da Licença Pública Geral GNU conforme publicada pela Free Software Foundation, tanto a versão 2 da Licença, quanto qualquer versão posterior.
 
-	Este programa de computador, Dataprol Dosimprime, enquadra-se na modalidade de licen�a Opensource. Qualquer um poder� utiliz�-lo e alter�-lo, livremente, sem ter de pagar nada por isso. Por�m, ele � fornecido sem garantias e sem suporte t�cnico.
-        N�o me responsabilizo por mal uso ou mal funcionamento do mesmo e nem por danos que, por ventura, venha causar direta ou indiretamente.
-	Instalando e utilizando o Dataprol Dosimprime estar�, automaticamente, concordando com estes termos de licen�a de uso.
+Este programa é distribuído na esperança de que seja útil, mas SEM NENHUMA GARANTIA, sem mesmo a garantia implícita de COMERCIALIZAÇÃO ou ADEQUAÇÃO A UM PROPÓSITO ESPECÍFICO. Veja a GNU General Public License para mais detalhes.
 
-
-
-
+Você deve ter recebido uma cópia da GNU General Public License junto com este software. Veja o arquivo COPYING.TXT. Caso contrário, escreva para a Free Software Foundation, Inc., 59 Temple Place, Suite 330, Boston, MA 02111-1307 USA (ou visite o site http://www.gnu.org/).
 
 
 Luiz Carlos Costa Rodrigues
